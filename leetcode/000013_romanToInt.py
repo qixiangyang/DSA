@@ -24,7 +24,7 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 输出: 3
 示例 2:
 
-输入: "IV"
+输入: "III"
 输出: 4
 示例 3:
 
@@ -46,8 +46,33 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 def romanToInt(s: str) -> int:
 
     data_dict = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
-    symbol_list = ["I", "X", "C"]
 
-    start_unicode = s[0]
-    while len(start_unicode) > 0:
-        if start_unicode in symbol_list:
+    num_list = []
+    while len(s) > 0:
+        start_str = s[0]
+        num_list.append(data_dict[start_str])
+        s = s[1:]
+    big_num_list = sorted(list(set(num_list)), reverse=True)
+    num = 0
+
+    if len(num_list) == 1:
+        num += num_list[0]
+
+    elif len(big_num_list) == 1:
+        num += len(num_list) * num_list[0]
+
+    else:
+        while len(num_list) > 0:
+            max_value_index = num_list.index(max(num_list))
+            if max_value_index == 0:
+                num += num_list[0]
+                num_list = num_list[1:]
+
+            else:
+                num += (num_list[max_value_index] - max_value_index * num_list[0])
+                num_list = num_list[max_value_index+1:]
+                print(num_list)
+    return num
+
+
+print(romanToInt("MCMXCIV"))
