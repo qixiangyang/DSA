@@ -27,41 +27,61 @@
 
 输入: "{[]}"
 输出: true
+
+输入："(([]){})"
+输出：false
+
+'(())[()]'
+"[({}[])]"
 """
+
 
 def isValid(s: str) -> bool:
 
-    symbol_dict = {"(": ")", "{": "}", "[": "]"}
+    symbol_dict = {')': "(", "}": "{", "]": "["}
+    special_symbol = [')', "}", "]"]
 
-    while len(s) > 0:
+    symbol_list = []
 
-        if s[0] in symbol_dict:
-            value = symbol_dict[s[0]]
-            try:
-                index = s.index(value)
-            except Exception as e:
-                # print(e)
-                return False
+    for symbol in s:
+        if symbol in special_symbol:
+            symbol_list.append(symbol)
 
-            if (index-1) % 2 != 0:
-                return False
+    print(symbol_list)
 
-            else:
-                m = list(s)
-                m.pop(index)
-                m.pop(0)
+    for i in symbol_list:
+        i_index = s.index(i)
 
-                s = ''.join(m)
-
-                if len(s) == 0:
-                    return True
-        else:
+        if s[i_index-1] != symbol_dict[i]:
             return False
+        else:
+            s_list = list(s)
+            s_list.pop(i_index)
+            s_list.pop(i_index - 1)
+
+            s = ''.join(s_list)
+
+            print(s)
+
+    if len(s) > 0:
+        return False
     else:
         return True
 
 
-print(isValid("(([]){})"))
+print(isValid('(([]){})'))
+
+
+"""
+网友解法
+class Solution:
+    def isValid(self, s):
+        while '{}' in s or '()' in s or '[]' in s:
+            s = s.replace('{}', '')
+            s = s.replace('[]', '')
+            s = s.replace('()', '')
+        return s == ''
+"""
 
 
 
