@@ -46,3 +46,13 @@ for (int i = 0; i < len; i++) {
 }
 """
 
+
+def removeElement(nums, val: int) -> int:
+
+    while val in nums:
+        index = nums.index(val)
+        nums.pop(index)
+    return len(nums)
+
+
+print(removeElement([0,1,2,2,3,0,4,2], 0))
