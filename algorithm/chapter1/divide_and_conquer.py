@@ -10,8 +10,11 @@ def quicksort(array):
     if len(array) < 2:
         return array
     else:
+        base = array[0]
+        less = [x for x in array[1:] if x <= base]
+        greater = [x for x in array[1:] if x > base]
+        print(less, base, greater)
+        return quicksort(less) + [base] + quicksort(greater)
 
-        return
 
-
-print(quicksort([1, 6, 7, 3, 2]))
+quicksort([1, 6, 7, 3, 2])
