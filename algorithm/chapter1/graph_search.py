@@ -26,17 +26,18 @@ def person_is_seller(name):
 def get_seller():
     search_queue = deque()
     search_queue += graph['you']
-
+    searched_list = []
     while search_queue:
         person = search_queue.popleft()
-        if person_is_seller(person):
-            print("{} is mango seller".format(person))
-            return person
-        else:
-            print(person)
-            print(search_queue)
-            search_queue += graph[person]
-            print(search_queue)
+        if person not in searched_list:
+
+            if person_is_seller(person):
+                print("{} is mango seller".format(person))
+                return person
+            else:
+                search_queue += graph[person]
+                searched_list.append(person)
+
 
 get_seller()
 
