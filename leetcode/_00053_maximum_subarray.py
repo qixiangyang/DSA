@@ -30,4 +30,6 @@ def maxSubArray(nums) -> int:
 
     for i in range(len(index_list)-1):
         if index_list[i+1] - index_list[i] == 1:
+            pass
+
 
