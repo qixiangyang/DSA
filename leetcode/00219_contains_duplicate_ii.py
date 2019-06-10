@@ -23,3 +23,20 @@ File: 00219_contains_duplicate_ii
 
 """
 
+
+def containsNearbyDuplicate(nums, k: int) -> bool:
+
+    data_dict = {}
+    index = 0
+
+    for value in nums:
+        if data_dict.get(value) is not None:
+            if index - data_dict[value] <= k:
+                return True
+        data_dict[value] = index
+        index += 1
+
+    return False
+
+
+print(containsNearbyDuplicate([1, 2, 3, 1, 2, 3], 2))
