@@ -27,6 +27,7 @@ def twoSum(nums, target):
             if temp == target:
                 return [i+1, m+1]
 
+
 nums = [2, 7, 11, 15]
 target = 9
 
