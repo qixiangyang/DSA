@@ -28,5 +28,4 @@ def generate(numRows: int):
         return [1]
     elif numRows == 2:
         return [1, 1]
-    else:
-        for
+    pass
