@@ -32,10 +32,34 @@ class MinStack:
         initialize your data structure here.
         """
 
+        self.stack = []
+        self.minstack = []
+
     def push(self, x: int) -> None:
+        self.stack.append(x)
 
     def pop(self) -> None:
+        return self.stack.pop(-1)
 
     def top(self) -> int:
+        return self.stack[-1]
 
     def getMin(self) -> int:
+        return sorted(self.stack)[0]
+
+
+minStack = MinStack()
+minStack.push(-2)
+minStack.push(0)
+minStack.push(-3)
+
+print(minStack.getMin())
+minStack.pop()
+print(minStack.top())
+print(minStack.getMin())
+
+
+"""
+执行用时 :1244 ms, 在所有Python3提交中击败了14.01%的用户
+内存消耗 :16.3 MB, 在所有Python3提交中击败了98.14%的用户
+"""
