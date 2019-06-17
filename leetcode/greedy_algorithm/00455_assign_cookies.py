@@ -45,7 +45,6 @@ def findContentChildren(g, s):
     while i < len(g) and len(s) > 0:
         m = 0
         while g[i] > s[m]:
-            if m+1 < len(s) - 1:
                 m += 1
 
         # print(g[i], s[m])
