@@ -37,22 +37,38 @@ File: 00455_assign_cookies
 """
 
 
+
 def findContentChildren(g, s):
 
-    count = 0
-    i = 0
-    s = sorted(s)
-    while i < len(g) and len(s) > 0:
-        m = 0
-        while g[i] > s[m]:
-                m += 1
-
-        # print(g[i], s[m])
-        s.pop(m)
-        count += 1
-        i += 1
-
-    return count
+    # count = 0
+    # i = 0
+    # s = sorted(s)
+    # while i < len(g) and len(s) > 0:
+    #     for d in s:
+    #         if g[i] <= d:
+    #             print(d)
+    #             s.remove(d)
+    #             count += 1
+    #             break
+    #     i += 1
+    # return count
 
 
-print(findContentChildren([1,2,3], [1,1]))
+    g.sort()
+    s.sort()
+
+    gi = 0
+    si = 0
+    res = 0
+
+    while gi < len(g) and si < len(s):
+        if s[si] >= g[gi]:
+            si += 1
+            gi += 1
+            res += 1
+        else:
+            si += 1
+    return res
+
+
+print(findContentChildren([1,2], [1,2,3]))
