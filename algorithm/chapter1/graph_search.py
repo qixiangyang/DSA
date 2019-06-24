@@ -7,7 +7,6 @@ File: graph_search
 
 from collections import deque
 
-
 graph = {}
 graph["you"] = ["alice", "bob", "claire"]
 graph["bob"] = ["anuj", "peggy"]
