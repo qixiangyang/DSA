@@ -22,17 +22,33 @@ nums2 = [2,5,6],       n = 3
 
 
 """
-
+from collections import defaultdict
 
 def merge(nums1, m: int, nums2, n: int) -> None:
     """
     Do not return anything, modify nums1 in-place instead.
     """
 
-    num1 = nums1[:m] + nums2
-    num1 = sorted(num1)
+    data = defaultdict(list)
+    for _ in range(len(nums1)-m):
+        nums1.remove(0)
 
-    print(num1)
+    for _ in range(len(nums2)-n):
+        nums1.remove(0)
 
+    for index, value in enumerate(nums1):
+            data[value].append(index)
 
-merge([1,2,3,0,0,0], 3, [2,5,6], 3)
+    for index, value in enumerate(nums2):
+            data[value].append(index)
+
+    data_list = sorted(data.items(), key=lambda x: x[0])
+
+    nums1.clear()
+    for i in data_list:
+        temp_list = [i[0]] * len(i[1])
+        nums1.extend(temp_list)
+    print(nums1)
+
+dara = merge([-1,0,0,3,3,3,0,0,0], 6, [1,2,2], 3)
+print(dara)
