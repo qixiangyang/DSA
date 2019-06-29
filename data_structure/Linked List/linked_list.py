@@ -71,10 +71,9 @@ class LinkedList:
             cur_idx += 1
 
         if idx == 0:
-            if __name__ == '__main__':
-                self.head = cur.next
-                cur = cur.next
-                return
+            self.head = cur.next
+            cur = cur.next
+            return
         if self.head is self.tail:
             self.tail = None
             self.head = None
