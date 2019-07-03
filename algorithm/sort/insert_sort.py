@@ -17,6 +17,7 @@ def insert_sort(list_data):
             if list_data[m] < list_data[m-1]:
                 list_data[m], list_data[m-1] = list_data[m-1], list_data[m]
 
+
 list_data = [54, 26, 93, 17, 77, 31, 44, 55, 20]
 insert_sort(list_data)
 
