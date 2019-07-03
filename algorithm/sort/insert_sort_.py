@@ -9,6 +9,7 @@ File: insert_sort
 之后再解决
 """
 
+
 def insert_sort(list_data):
 
     for i in range(len(list_data)):
