@@ -22,10 +22,10 @@ def shell_sort(list_data):
     return list_data
 
 
-numlist = [5,7,8,3,1,2,4,6,9]
-print("排序前：%s"% numlist)
-shell_sort(numlist)
-print("排序后：%s"%numlist)
-
-# for m in range(4, 0, -4):
-#     print(m)
+numlist = [5, 7, 8, 3, 1, 2, 4, 6, 9]
+# print("排序前：%s" % numlist)
+# shell_sort(numlist)
+# print("排序后：%s" % numlist)
+#
+# # for m in range(4, 0, -4):
+# #     print(m)
