@@ -1,5 +1,9 @@
 ### 值得反复学习的优秀项目或者代码
 
-#### sougou_spider 搜狗微信爬虫，新的requests的使用方式、3.7的语法、高级的代码表达方式, lxml 新的解析函数
+#### Algorithm 算法： 目前已完成常见排序算法
+#### Data Structure 数据结构： 目前已完成链表，队列，接下来学习树
+#### Excellent Cases： 优秀的项目学习 目前有一个sougou爬虫的例子
+#### LeetCode： 刷题记录
+#### Python： Python基础练习
 
-#### LeetCode刷题，每天一个
+Date：2019-07-05
