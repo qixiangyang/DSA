@@ -39,6 +39,12 @@ class Vector2d:
     def __bool__(self):
         return bool(abs(self))
 
+    @classmethod
+    def frombytes(cls, octets):
+        typecpde = chr(octets[0])
+        memv = memoryview(octets[1:].cast(typecpde))
+        return cls(*memv)
+
 
 v1 = Vector2d(3, 4)
 print(v1.x, v1.y)
