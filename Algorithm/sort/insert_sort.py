@@ -10,15 +10,24 @@ File: insert_sort
 """
 
 
-def insert_sort(list_data):
-
-    for i in range(len(list_data)):
-        for m in range(i, 0, -1):
-            if list_data[m] < list_data[m-1]:
-                list_data[m], list_data[m-1] = list_data[m-1], list_data[m]
+def insert_sort(arr):
+    length = len(arr)
+    for i in range(1, length):
+        x = arr[i]
+        for j in range(i, -1, -1):
+            # j为当前位置，试探j-1位置
+            if x < arr[j]:
+                arr[j] = arr[j]
+            else:
+                # 位置确定为j
+                arr[j] = x
+                break
 
 
 list_data = [54, 26, 93, 17, 77, 31, 44, 55, 20]
+"""
+[26, 54, 93, 17, 77, 31, 44, 55, 20]
+"""
 insert_sort(list_data)
 
 print(list_data)
