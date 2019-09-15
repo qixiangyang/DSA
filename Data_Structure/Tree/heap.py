@@ -94,7 +94,6 @@ if __name__ == "__main__":
     for i in range(10):
         myheap.insert(i+1)
     print('建堆:', myheap.data_list)
-
     print("删除堆顶元素：", [myheap.removeMax() for _ in range(10)])
 
 

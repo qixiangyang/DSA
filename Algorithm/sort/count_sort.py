@@ -23,11 +23,12 @@ def count_sort(list_data):
 
     for i in range(len(list_data)):
         for m in tmp_list:
+            print(m)
             if i == m[0]:
-                res.append(m[0])
+                res.append(m[1])
     return res
 
 
-list_data = [5, 6, 3, 2, 1, 65, 2, 0, 8, 0]
+list_data = [5, 6, 3, 2, 1, 100, 2, 0, 8, 0]
 res = count_sort(list_data)
 print(res)
