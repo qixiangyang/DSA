@@ -5,7 +5,7 @@ Date: 2019/10/18 3:59 下午
 File: divide_conquer 
 """
 
-from typing import List
+from typing import (List)
 """
 https://zhuanlan.zhihu.com/p/44213575
 """
@@ -68,8 +68,34 @@ def merge_sort(nums: List) -> List:
     return res + (left or right)
 
 
-lis = [7, 5, 0, 6, 3, 4, 1, 9, 8, 2]
-data = merge_sort(lis)
-print(data)
+# lis = [7, 5, 0, 6, 3, 4, 1, 9, 8, 2]
+# data = merge_sort(lis)
+# print(data)
 
+"""
+#O(nlogn)
+#基本子算法（内置算法）
+#虽然也可以处理大数组，这里用于解决分治问题规模小于2时候
+"""
+
+
+def get_max(nums: List) -> int:
+    return max(nums)
+
+
+def solve(nums: List):
+    if len(nums) <= 2:
+        return get_max(nums)
+
+    left, right = nums[:len(nums) // 2], nums[len(nums) // 2:]
+    max_left, max_right = solve(left), solve(right)
+
+    return get_max([max_left, max_right])
+
+
+if __name__ == "__main__":
+    # 测试数据
+    alist = [12,2,23,45,67,3,2,4,45,63,24,23]
+    # 求最大值
+    print(solve(alist))  # 67
 
