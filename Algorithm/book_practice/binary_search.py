@@ -10,24 +10,6 @@ File: binary_search
 """
 
 
-# def binary_search(list_data, num):
-#     low = 0
-#     high = len(list_data) - 1
-#
-#     while low <= high:
-#         mid = int((low + high) / 2) - 1
-#
-#         if num == list_data[mid]:
-#             return mid
-#
-#         elif num < list_data[mid]:
-#             high = mid
-#
-#         elif num > list_data[mid]:
-#             low = mid
-#
-#     return None
-
 def binary_search(lis, num):
     left = 0
     right = len(lis) - 1

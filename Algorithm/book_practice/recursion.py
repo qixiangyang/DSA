@@ -12,6 +12,7 @@ File: recursion
 
 """
 
+
 def countdown(i):
     print(i)
     if i <= 0:
@@ -29,6 +30,7 @@ def fact(x):
         return 1
     else:
         return x * fact(x - 1)
+
 
 print(fact(5))
 

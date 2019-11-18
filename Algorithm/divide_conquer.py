@@ -93,9 +93,26 @@ def solve(nums: List):
     return get_max([max_left, max_right])
 
 
-if __name__ == "__main__":
-    # 测试数据
-    alist = [12,2,23,45,67,3,2,4,45,63,24,23]
-    # 求最大值
-    print(solve(alist))  # 67
+"""
+判断元素是否存在
+"""
 
+
+def is_in_it(nums: List, num: int)-> True or False:
+    if len(nums) <= 2:
+        if num in nums:
+            return True
+    else:
+        return False
+
+    left, right = nums[:len(nums) // 2], nums[len(nums) // 2:]
+    max_left, max_right = is_in_it(left, num), is_in_it(right, num)
+
+    if max_left or max_right:
+        pass
+
+
+lis = [12,2,23,45,67,3,2,4,45,63,24,23]
+#查找
+print(is_in_it(lis, 45)) #YES~
+print(is_in_it(lis, 5))  #NOT~
