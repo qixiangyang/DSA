@@ -61,7 +61,7 @@ class LRUCache:
             self.cache[key] = value
         else:
             self.cache[key] = value
-        print(self.cache)
+        # print(self.cache)
 
 
 # Your LRUCache object will be instantiated and called as such:

@@ -33,14 +33,7 @@ File: 00139_word_break
 
 
 def wordBreak(s: str, wordDict) -> bool:
-
-    for i in wordDict:
-        s = s.replace(i, '')
-    if len(s) == 0:
-        return True
-    else:
-        return False
-
+    pass
 
 s = "cars"
 wordDict = ["car","ca","rs"]
