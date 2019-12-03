@@ -33,5 +33,6 @@ def majorityElement(nums: List[int]) -> int:
     data_list = sorted(data.items(), key=lambda x: x[1] ,reverse=True)
     return data_list[0][0]
 
+
 print(majorityElement([2, 2, 1, 1, 1, 2, 2]))
 

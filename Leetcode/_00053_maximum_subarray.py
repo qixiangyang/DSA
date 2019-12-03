@@ -19,17 +19,12 @@ File: 00053_maximum_subarray
 
 """
 
-
-def maxSubArray(nums) -> int:
-
-    index_list = []
-    for index, value in enumerate(nums):
-        if value > 0:
-            index_list.append(index)
+from  typing import List
 
 
-    for i in range(len(index_list)-1):
-        if index_list[i+1] - index_list[i] == 1:
-            pass
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        pass
+
 
 
