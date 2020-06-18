@@ -24,3 +24,24 @@ File: 00028_strStr
 
 对于本题而言，当 needle 是空字符串时我们应当返回 0 。这与C语言的 strstr() 以及 Java的 indexOf() 定义相符。
 """
+
+
+class Solution:
+
+    @staticmethod
+    def strStr(haystack: str, needle: str) -> int:
+
+        needle_len = len(needle)
+        haystack_len = len(haystack)
+
+        for _ in range(0, haystack_len-needle_len + 1):
+            if haystack[_: _ + needle_len] == needle:
+                return _
+        return -1
+
+
+a = Solution
+print(a.strStr("hello", 'll'))
+
+
+
