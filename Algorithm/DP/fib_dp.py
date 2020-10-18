@@ -44,10 +44,28 @@ def fib_db(n):
     return res
 
 
+def new_fib(n):
+    if n < 2:
+        return n
+
+    i_now = 1
+    i_pre = 0
+    i = 2
+    while i <= n:
+        i_now, i_pre = i_now + i_pre, i_now
+        i += 1
+    return i_now
+
+
+n = 11
+
 t1 = time.time()
-print(fib(200))
+print(fib(n))
 t2 = time.time()
 print(f"fib(100) cost {str(t2-t1)}")
-print(fib_db(200))
+print(fib_db(n))
 t3 = time.time()
 print(f"fib(100) cost {str(t3-t2)}")
+
+
+print(new_fib(n))
