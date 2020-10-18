@@ -7,5 +7,3 @@
 #### Python： Python基础练习
 
 Date：2019-07-05
-
-test git pull
