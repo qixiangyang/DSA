@@ -27,12 +27,30 @@ File: 00198_house_robber
 """
 
 
-def rob(nums) -> int:
+def rob(nums: list) -> int:
 
-    max_len = len(nums)
-    i_loc = 0
+    if len(nums) <= 2:
+        return max(nums)
+    index = 0
+    total = 0
+    while index <= len(nums) - 4:
+        print(index)
+        total = nums[index] + max(nums[index+2], nums[index + 3])
+        if nums[index + 2] > nums[index + 3]:
+            index = index + 2
+        else:
+            index = index + 3
+        print(index)
 
-    if i_loc < max_len:
+    return total
 
 
-print(rob([2,7,9,3,1]))
+def rob_new(nums: list):
+    pre = 0
+    now = 0
+    for i in nums:
+        now, pre = max(pre + i, now), now
+    return now
+
+
+print(rob_new([2, 7, 9, 3, 1]))
