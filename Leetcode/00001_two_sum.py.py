@@ -13,6 +13,7 @@
 """
 
 
+# 暴力计算
 def twoSum(nums, target):
     """
     :type nums: List[int]
@@ -32,4 +33,23 @@ nums = [2, 7, 11, 15]
 target = 9
 
 data = twoSum(nums, target)
+print(data)
+
+
+# hash
+def twoSum2(nums, target):
+
+    temp_dict = {}
+
+    for i, v in enumerate(nums):
+        left = target - v
+        if v in temp_dict.keys():
+            return [temp_dict[v], i]
+        temp_dict[left] = i
+        print(temp_dict)
+    return []
+
+
+nums = [1, 2, 3, 5]
+data = twoSum2(nums, 6)
 print(data)
