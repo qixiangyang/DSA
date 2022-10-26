@@ -1,896 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93e618a6-6f7c-486e-aa2d-d410942bcfdd" name="Default Changelist" comment="文件更名">
-      <change afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/stock_df.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qxy/learning/learning/class_learning/Point_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qxy/learning/learning/class_learning/class_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qxy/learning/learning/class_learning/clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qxy/learning/learning/class_learning/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../qxy/picture_private/new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/.idea/alpha_work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/.idea/alpha_work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/baidu_index/baidu_spider/Raphael.js" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/baidu_index/baidu_spider/Raphael.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/check/analysis_which_lost.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/check/analysis_which_lost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/check/select_from_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/check/select_from_mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/Mongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/Mongodb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/MySQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/MySQL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/json_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/tools/json_parse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/page_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/page_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/tools/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/title_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/title_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/treat_set_cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/tools/treat_set_cookie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/small_work/归档.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/guba_spider/get_all_stock_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/guba_spider/get_all_stock_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/guba_spider/stock_df1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/2019-05-01报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/2019-05-02报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/2019-05-04报告.docx" beforeDir="false" />
+    <list default="true" id="adb94030-a056-44d8-8bef-a7393797cd16" name="Changes" comment="update ignore">
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/book_practice/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Book Practice/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/book_practice/dick_tesla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Book Practice/dick_tesla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/book_practice/divide_and_conquer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Book Practice/divide_and_conquer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/book_practice/graph_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Book Practice/graph_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/book_practice/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Book Practice/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/book_practice/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Book Practice/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/bucket_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/bucket_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/count_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/count_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/heap_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/heap_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/insert_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/insert_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/radix_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/radix_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/select_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/select_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/sort/shell_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Sort/shell_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Linked List/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Linked List/linked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Queue/Deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Queue/Deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Queue/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Queue/Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Stack/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Stack/Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Tree/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Tree/binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Tree/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Tree/heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structure/Tree/huffman_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/Tree/huffman_tree.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../qxy/learning/learning/class_learning/class_inheritance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../learning_project/sogou_spider/sgwc/sogou.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="63" column="64" lean-forward="true" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/Mongodb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>get_hot_articles</find>
-      <find>GOn7lXzvMQ3CvfUlNsLfxNPQzePrF</find>
-      <find>oIWsFt8cyl32PGFKdRpbT5xjNlas</find>
-      <find>dZbbMoLTNL4mdIlMqG7r8QJCgk3T7fOkOD60xikf07DaRB</find>
-      <find>get_official</find>
-      <find>_parse_link</find>
-      <find>ocument_fromstring</find>
-      <find>update</find>
-      <find>页</find>
-      <find>长青股份</find>
-      <find>ye</find>
-      <find>002306</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/../qxy/yiche</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../learning_project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/sogou_spider/test.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/tiezi_data_analysis.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tools.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/graph_word_cloud.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/auto_report.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/calculate_tiezi_content.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis/graph_data_trend.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/readme.md" />
-        <option value="$PROJECT_DIR$/sogou_spider/sgwc/wechat.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/readme.md" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/seek_lost_data.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/get_file_name.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/select_from_mysql.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/analysis_which_lost.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/header.txt" />
-        <option value="$PROJECT_DIR$/sogou_spider/sgwc/setting.py" />
-        <option value="$PROJECT_DIR$/sogou_spider/sgwc/sogou.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/run.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/guba_spider/get_all_stock_code.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/stock_df1.csv" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/spider.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/stock_df.csv" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/title_detail.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/treat_set_cookie.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.txt" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/json_parse.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/title_spider.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/check/analysis_which_lost.py" />
-        <option value="$PROJECT_DIR$/../qxy/readme.md" />
-        <option value="$PROJECT_DIR$/../qxy/picture_private/new.py" />
-        <option value="$PROJECT_DIR$/../qxy/picture_private/something_fun.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/check/select_from_mysql.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/page_spider.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/MySQL.py" />
-        <option value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/class_learning.py" />
-        <option value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/Point_distance.py" />
-        <option value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/student.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.spider.py" />
-        <option value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/Mongodb.py" />
-        <option value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/class_inheritance.py" />
-        <option value="$PROJECT_DIR$/../learning_project/readme.md" />
-      </list>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="947" />
-  </component>
+  <component name="ProjectId" id="2Gg6LjCDhFTXnI7mqXuKqmpIGEm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="learning_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_project" type="462c0819:PsiDirectoryNode" />
-              <item name="sogou_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_project" type="462c0819:PsiDirectoryNode" />
-              <item name="sogou_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="sgwc" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ChangesTree.GroupingKeys" value="" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="vcs.patch.to.clipboard" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-      <recent name="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/spiders" />
-      <recent name="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/tools" />
-      <recent name="$PROJECT_DIR$/../alpha_work/seek_lost_data/check" />
-      <recent name="$PROJECT_DIR$/../alpha_work" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.text.spider">
-    <configuration name="Mongodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="alpha_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/Mongodb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Point_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="qxy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/Point_distance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="qxy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/class_inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
-      <module name="alpha_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="qxy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../qxy/learning/learning/class_learning/student.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text.spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="alpha_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.text.spider" />
-        <item itemvalue="Python.class_inheritance" />
-        <item itemvalue="Python.Mongodb" />
-        <item itemvalue="Python.student" />
-        <item itemvalue="Python.Point_distance" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93e618a6-6f7c-486e-aa2d-d410942bcfdd" name="Default Changelist" comment="" />
-      <created>1557050089686</created>
+      <changelist id="adb94030-a056-44d8-8bef-a7393797cd16" name="Changes" comment="" />
+      <created>1666797826787</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557050089686</updated>
-      <workItem from="1557050090808" duration="10972000" />
-      <workItem from="1557120752068" duration="27850000" />
-      <workItem from="1557279822937" duration="65024000" />
+      <updated>1666797826787</updated>
+      <workItem from="1666797839824" duration="616000" />
     </task>
-    <task id="LOCAL-00001" summary="修正部分代码逻辑&#10;1. 将主要的程序运行集中在run.py【报告撰写部分除外】&#10;2. 将各个部分封装为一个整体，供run.py调用&#10;3. 报告撰写部分代码封装&#10;4. 删除部分无用报告">
-      <created>1557057402065</created>
+    <task id="LOCAL-00001" summary="update ignore">
+      <created>1666797982646</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1557057402065</updated>
+      <updated>1666797982646</updated>
     </task>
-    <task id="LOCAL-00002" summary="完成run.py&#10;目前已经可以通过run.py一个来控制所有程序">
-      <created>1557123614190</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1557123614190</updated>
-    </task>
-    <task id="LOCAL-00003" summary="新增项目说明">
-      <created>1557128320815</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1557128320815</updated>
-    </task>
-    <task id="LOCAL-00004" summary="完成一个函数控制整个流程">
-      <created>1557279893912</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1557279893912</updated>
-    </task>
-    <task id="LOCAL-00005" summary="和讯爬虫 cookie有问题">
-      <created>1557280019740</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1557280019740</updated>
-    </task>
-    <task id="LOCAL-00006" summary="和讯爬虫&#10;&#10;- 完成列表爬取&#10;- 完成cookie的获取">
-      <created>1557369640635</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1557369640635</updated>
-    </task>
-    <task id="LOCAL-00007" summary="易车工作">
-      <created>1557372525931</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1557372525931</updated>
-    </task>
-    <task id="LOCAL-00008" summary="自己工作以来积累的东西">
-      <created>1557372639105</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1557372639105</updated>
-    </task>
-    <task id="LOCAL-00009" summary="文件更名">
-      <created>1557372853886</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1557372853886</updated>
-    </task>
-    <task id="LOCAL-00010" summary="获取指定股票信息的小脚本">
-      <created>1557375294101</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1557375294101</updated>
-    </task>
-    <task id="LOCAL-00011" summary="NLP相关的练习">
-      <created>1557375356603</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1557375356603</updated>
-    </task>
-    <task id="LOCAL-00012" summary="个人网站练习">
-      <created>1557378115038</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1557378115038</updated>
-    </task>
-    <task id="LOCAL-00013" summary="个人网站搭建练习">
-      <created>1557378145304</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1557378145304</updated>
-    </task>
-    <task id="LOCAL-00014" summary="完成hexun文章内容获取的爬虫代码">
-      <created>1557454956309</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1557454956309</updated>
-    </task>
-    <task id="LOCAL-00015" summary="something_fun">
-      <created>1557455149667</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1557455149667</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103846000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.32932693" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37860578" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903846" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32932693" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32932693" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Mongo Explorer" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="UpdateCopyrightCheckinHandler">
-    <option name="UPDATE_COPYRIGHT" value="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
-    <MESSAGE value="修正部分代码逻辑&#10;1. 将主要的程序运行集中在run.py【报告撰写部分除外】&#10;2. 将各个部分封装为一个整体，供run.py调用&#10;3. 报告撰写部分代码封装&#10;4. 删除部分无用报告" />
-    <MESSAGE value="完成run.py&#10;目前已经可以通过run.py一个来控制所有程序" />
-    <MESSAGE value="新增项目说明" />
-    <MESSAGE value="完成一个函数控制整个流程" />
-    <MESSAGE value="和讯爬虫 cookie有问题" />
-    <MESSAGE value="和讯爬虫&#10;&#10;- 完成列表爬取&#10;- 完成cookie的获取" />
-    <MESSAGE value="易车工作" />
-    <MESSAGE value="自己工作以来积累的东西" />
-    <MESSAGE value="文件更名" />
-    <MESSAGE value="获取指定股票信息的小脚本" />
-    <MESSAGE value="NLP相关的练习" />
-    <MESSAGE value="个人网站练习" />
-    <MESSAGE value="个人网站搭建练习" />
-    <MESSAGE value="完成hexun文章内容获取的爬虫代码" />
-    <MESSAGE value="something_fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="something_fun" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/env_37_project$json_parse.coverage" NAME="json_parse Coverage Results" MODIFIED="1557312479066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$analysis_which_lost.coverage" NAME="analysis_which_lost Coverage Results" MODIFIED="1557371976379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/check" />
-    <SUITE FILE_PATH="coverage/env_37_project$class_inheritance.coverage" NAME="class_inheritance Coverage Results" MODIFIED="1557397549534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-    <SUITE FILE_PATH="coverage/env_37_project$graph_word_cloud.coverage" NAME="graph_word_cloud Coverage Results" MODIFIED="1557052884558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis" />
-    <SUITE FILE_PATH="coverage/env_37_project$seek_lost_data.coverage" NAME="seek_lost_data Coverage Results" MODIFIED="1557135218322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data" />
-    <SUITE FILE_PATH="coverage/env_37_project$spider.coverage" NAME="spider Coverage Results" MODIFIED="1557297299580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$run.coverage" NAME="run Coverage Results" MODIFIED="1557407958388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock" />
-    <SUITE FILE_PATH="coverage/env_37_project$test.coverage" NAME="test Coverage Results" MODIFIED="1557116280741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sogou_spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$Mongodb.coverage" NAME="Mongodb Coverage Results" MODIFIED="1557395772590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$student.coverage" NAME="student Coverage Results" MODIFIED="1557391808570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-    <SUITE FILE_PATH="coverage/env_37_project$page_spider.coverage" NAME="page_spider Coverage Results" MODIFIED="1557384568304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$treat_set_cookie.coverage" NAME="treat_set_cookie Coverage Results" MODIFIED="1557310994342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$get_all_stock_code.coverage" NAME="get_all_stock_code Coverage Results" MODIFIED="1557286267886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/guba_spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$MySQL.coverage" NAME="MySQL Coverage Results" MODIFIED="1557308800978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$title_spider.coverage" NAME="title_spider Coverage Results" MODIFIED="1557365946717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$Point_distance.coverage" NAME="Point_distance Coverage Results" MODIFIED="1557388147323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-    <SUITE FILE_PATH="coverage/env_37_project$tiezi_data_analysis.coverage" NAME="tiezi_data_analysis Coverage Results" MODIFIED="1557053159566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/tiezi_data_analysis" />
-    <SUITE FILE_PATH="coverage/env_37_project$sogou.coverage" NAME="sogou Coverage Results" MODIFIED="1557111015879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sogou_spider/sgwc" />
-    <SUITE FILE_PATH="coverage/env_37_project$select_from_mysql.coverage" NAME="select_from_mysql Coverage Results" MODIFIED="1557374654762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/check" />
-    <SUITE FILE_PATH="coverage/env_37_project$text_spider.coverage" NAME="text.spider Coverage Results" MODIFIED="1557452785750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../alpha_work/seek_lost_data/spider" />
-    <SUITE FILE_PATH="coverage/env_37_project$new.coverage" NAME="new Coverage Results" MODIFIED="1557379523394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../qxy/picture_private" />
-    <SUITE FILE_PATH="coverage/env_37_project$adapters.coverage" NAME="adapters Coverage Results" MODIFIED="1557115890522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/local/lib/python3.7/site-packages/requests" />
-    <SUITE FILE_PATH="coverage/env_37_project$class_learning.coverage" NAME="class_learning Coverage Results" MODIFIED="1557386655346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../qxy/learning/learning/class_learning" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="setValue">
-      <expression>
-        <expression-string>'&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta charset=&quot;utf-8&quot; /&gt;
-&lt;style&gt;
-body{ background:#fff; font-family: microsoft yahei; color:#969696; font-size:14px;}
-.online-desc-con { text-align:center; }
-.r-tip01 { color: #333; font-size: 18px; display: block; text-align: center; width: 500px; padding: 0 10px; overflow: hidden; text-overflow: ellipsis; margin: 0 auto 15px; }
-.r-tip02 { color: #585858; font-size: 14px; display: block; margin-top: 20px; margin-bottom: 20px; }
-#notice-jiasule {
-  word-wrap: break-word;
-  word-break: normal;
-  color:#585858;
-  border:1px solid #ddd;
-  padding:0px 20px 0px 20px
-}
-img { border: 0; }
-.u-ico{ vertical-align: middle; margin-right: 12px;}
-.btn{ padding: 8px 22px; border-radius: 3px; border: 0; display: inline-block;vertical-align: middle;text-decoration: none;}
-.btn-g{ background-color: #61b25e; color: #fff;}
-.report {color: #858585; text-decoration: none;}
-.report:hover {text-decoration: underline; color: #0088CC;}
-hr{ border-top: 1px dashed #ddd;}
-center...'</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>official_node.xpath('./div/div[2]/p[1]/a/@href')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>html_tree.xpath('//*[@id=&quot;main&quot;]/div[4]/ul/li')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/check/analysis_which_lost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/check/pdf_miss_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[QingDouKe青豆客] 甜美妹妹魏扭扭 - 校服写真娇羞露骨惹人怜[50P]_美图录/[QingDouKe青豆客] 甜美妹妹魏扭扭 - 校服写真娇羞露骨惹人怜[50P]_美图录2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[QingDouKe青豆客] 妖娆女王叶佳颐 - 大长腿肉色内衣若有若无[50P]_美图录/[QingDouKe青豆客] 妖娆女王叶佳颐 - 大长腿肉色内衣若有若无[50P]_美图录69.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[QingDouKe青豆客] 甜美妹妹魏扭扭 - 校服写真娇羞露骨惹人怜[50P]_美图录/[QingDouKe青豆客] 甜美妹妹魏扭扭 - 校服写真娇羞露骨惹人怜[50P]_美图录50.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.122 模特@王紫琳第三套写真[34P]_美图录/[YOUWU尤物馆] VOL.122 模特@王紫琳第三套写真[34P]_美图录331.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.118 女神@Cris_卓娅祺性感护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.118 女神@Cris_卓娅祺性感护士制服写真[52P]_美图录494.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.118 女神@Cris_卓娅祺性感护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.118 女神@Cris_卓娅祺性感护士制服写真[52P]_美图录517.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.118 女神@Cris_卓娅祺性感护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.118 女神@Cris_卓娅祺性感护士制服写真[52P]_美图录541.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.115 清甜美女@baby贝贝性感黑丝写真[48P]_美图录/[YOUWU尤物馆] VOL.115 清甜美女@baby贝贝性感黑丝写真[48P]_美图录627.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.115 清甜美女@baby贝贝性感黑丝写真[48P]_美图录/[YOUWU尤物馆] VOL.115 清甜美女@baby贝贝性感黑丝写真[48P]_美图录658.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.115 清甜美女@baby贝贝性感黑丝写真[48P]_美图录/[YOUWU尤物馆] VOL.115 清甜美女@baby贝贝性感黑丝写真[48P]_美图录668.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录53.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录48.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录/[YOUWU尤物馆] VOL.129 模特@Luffy菲菲 - 护士制服写真[52P]_美图录35.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.125 女神@Cris_卓娅祺性感比基尼写真[42P]_美图录/[YOUWU尤物馆] VOL.125 女神@Cris_卓娅祺性感比基尼写真[42P]_美图录193.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] VOL.125 女神@Cris_卓娅祺性感比基尼写真[42P]_美图录/[YOUWU尤物馆] VOL.125 女神@Cris_卓娅祺性感比基尼写真[42P]_美图录230.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/mysite/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] Vol.100 清甜美女@baby贝贝 写真套图[40P]_美图录/[YOUWU尤物馆] Vol.100 清甜美女@baby贝贝 写真套图[40P]_美图录1286.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YOUWU尤物馆] Vol.100 清甜美女@baby贝贝 写真套图[40P]_美图录/[YOUWU尤物馆] Vol.100 清甜美女@baby贝贝 写真套图[40P]_美图录1312.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[YouWu尤物馆] VOL.073 李宓儿 - 圣诞主题写真[45P]_美图录/[YouWu尤物馆] VOL.073 李宓儿 - 圣诞主题写真[45P]_美图录2484.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] Vol.184 模特@张雨萌第二套性感私房写真[39P]_美图录/[FEILIN嗲囡囡] Vol.184 模特@张雨萌第二套性感私房写真[39P]_美图录44.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] Vol.185 新人模特@星星star首套写真[40P]_美图录/[FEILIN嗲囡囡] Vol.185 新人模特@星星star首套写真[40P]_美图录29.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/something_fun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/check/text_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/txt_miss_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/tools/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/check/select_from_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="61" column="26" selection-start-line="61" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/title_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="1" column="34" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/guba_spider/guba_each_day_spider_mongodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="31" />
-          <folding>
-            <element signature="e#258#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/MySQL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] Vol.185 新人模特@星星star首套写真[40P]_美图录/[FEILIN嗲囡囡] Vol.185 新人模特@星星star首套写真[40P]_美图录4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] Vol.185 新人模特@星星star首套写真[40P]_美图录/[FEILIN嗲囡囡] Vol.185 新人模特@星星star首套写真[40P]_美图录16.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] VOL.167 栗子Riz - 蕾丝内衣美乳 写真套图[47P]_美图录/[FEILIN嗲囡囡] VOL.167 栗子Riz - 蕾丝内衣美乳 写真套图[47P]_美图录708.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/page_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="7" column="11" selection-start-line="7" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/2051245868/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="800" column="8" selection-start-line="800" selection-start-column="8" selection-end-line="800" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/learning/learning/class_learning/clock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/learning/learning/class_learning/Point_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/learning/learning/class_learning/student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/Mongodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录1704.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录1712.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录1724.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/picture_private/jpg/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录/[FEILIN嗲囡囡] VOL.142 模特@冯木木LRIS菲律宾的班塔延岛旅拍写真[46P]_美图录1728.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/topic_select/hot_stock/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../alpha_work/seek_lost_data/spider/text.spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../learning_project/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../qxy/learning/learning/class_learning/class_inheritance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../learning_project/sogou_spider/sgwc/sogou.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="63" column="64" lean-forward="true" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <MESSAGE value="update ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ignore" />
   </component>
 </project>

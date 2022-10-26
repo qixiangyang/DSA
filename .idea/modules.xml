@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../alpha_work/.idea/alpha_work.iml" filepath="$PROJECT_DIR$/../alpha_work/.idea/alpha_work.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../learning_project/.idea/learning_project.iml" filepath="$PROJECT_DIR$/../learning_project/.idea/learning_project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../qxy/.idea/qxy.iml" filepath="$PROJECT_DIR$/../qxy/.idea/qxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
     </modules>
   </component>
 </project>
